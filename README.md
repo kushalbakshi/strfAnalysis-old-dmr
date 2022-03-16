@@ -1,4 +1,5 @@
-# strfAnalysis
+# CODE NO LONGER UPDATED. PLEASE SEE 'bat_cortex_STRFs' repository for latest code version #
+strfAnalysis
 MATLAB codes to generate STRFs from auditory cortex recordings
 'MUA_STRF' is the base file that references several other functions in the repository. 
 
